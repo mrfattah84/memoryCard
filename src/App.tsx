@@ -69,7 +69,7 @@ function App() {
 
   return (
     <div className="px-4">
-      <div className="flex justify-between items-center">
+      <div className="flex justify-between items-center mb-2">
         <h1 className="font-bold text-lg md:text-5xl">
           Welcome to Cat Memory Card!
         </h1>
